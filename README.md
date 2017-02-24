@@ -1,4 +1,4 @@
-# Headless wallet for Byteball network
+# Headless wallet for Byteball testnet network
 
 This is a headless alternative of the [GUI wallet](../../../byteball) for Byteball network.  It is designed for an always-online deployment on a server.
 
